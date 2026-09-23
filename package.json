@@ -1,0 +1,13 @@
+{
+  "name": "watcher-store",
+  "version": "1.0.0",
+  "description": "Watcher and Store: a small event-driven observable object and key/value collection.",
+  "type": "module",
+  "main": "src/store.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
